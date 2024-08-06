@@ -1,0 +1,1 @@
+Countries flags saved using the full country name
